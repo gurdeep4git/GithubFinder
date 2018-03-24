@@ -1,0 +1,7 @@
+{
+  "name": "GithubFinder",
+  "version": "1.0.0",
+  "description": "Github finder application using ES6",
+  "main": "index.js",
+  "license": "MIT"
+}
